@@ -1,4 +1,8 @@
 # Java-100_Days_Journey
+
+![1183618](https://github.com/UtshadasCSE/Java-100_Days_Journey/assets/75168319/78e58e77-14cc-4dc0-90df-2ac699ad8293)
+
+
 Java is a popular programming language, created in 1995.
 
 It is owned by Oracle, and more than 3 billion devices run Java.
